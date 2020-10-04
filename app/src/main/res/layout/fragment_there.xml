@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.FragmentThree">
+
+    <ImageView
+        android:scaleType="fitXY"
+        android:src="@drawable/a2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <Button
+        android:text="Continue with Facebook"
+        android:layout_marginBottom="@dimen/_80dp"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/continue_fb"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_45sp"
+        android:layout_marginLeft="@dimen/_50dp"
+        android:layout_marginRight="@dimen/_50dp"
+        android:background="@drawable/shape_bt"
+        android:textAllCaps="false"
+        android:textColor="#fff"
+        android:textSize="15sp"
+        android:textStyle="normal" />
+
+</RelativeLayout>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FacebookAds</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_register">Register new account</string>
+    <string name="title_country">Your billing country/region</string>
+    <string name="title_primarity">This account is primarity used to</string>
+    <string name="radio_1">A business, to promote goods and services</string>
+    <string name="radio_2">An individual, to promote personal websites or pages</string>
+    <string name="title_birth_day">Birthday</string>
+    <string name="wrong_birthday">Please enter valid Birthday</string>
+    <string name="title_email">Email</string>
+    <string name="wrong_email">PLease enter valid Email address</string>
+    <string name="title_phone">Phone number</string>
+    <string name="title_password">Password</string>
+    <string name="wrong_password">Please enter minimum 6 characters length.</string>
+    <string name="title_confirm_pass">Confirm Password</string>
+    <string name="wrong_confirm">Confirmation password is not match</string>
+    <string name="app_checkbox">Click here to agree to Toktok Ads terms and conditions and confirm you have read our Privacy Policy</string>
+    <string name="wrong_policy">Please complate the form to continue</string>
+    <string name="app_create_account">Create new account</string>
+    <string name="wrong_phone">Please enter valid phone number</string>
+</resources>
